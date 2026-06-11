@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onelnx
 - 👀 I’m interested in growing & learning
-- 📫 How to reach me onelnx@mackolicious.com
+- 📫 How to reach me contac@onelnx.com
 
 <!---
 onelnx/onelnx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
